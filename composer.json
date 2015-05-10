@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Gr8abbasi\\Repository\\" : "vendor/gr8abbasi/repository/src/"
+            "Gr8abbasi\\Repository\\" : "src/"
         }
     }
 }
