@@ -2,7 +2,7 @@
     "name": "gr8abbasi/repository",
     "type": "library",
     "version": "1.0.0",
-    "description": "Implementing repository pattern laravel 5",
+    "description": "Implementing repository pattern for laravel 5",
     "authors": [
         {
             "name": "Muhammad Kashif Abbasi",
